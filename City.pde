@@ -1,24 +1,3 @@
-//For the past 18 years, my home has been the beautiful and lively 
-//city of Seoul, South Korea. The city is a brilliant combination of 
-//the world’s most high tech innovations with South Korea’s culture 
-//and preserved nature. An example of this combination is the light 
-//show on the Han River. Although recently constructed, it quickly 
-//became a beloved pastime to visit the Han River with my family and 
-//friends and watch the Banpo Bridge Water Fountain colored with 
-//dazzling lights. Before the fountain however, I used to love to sit 
-//on the edge of the water and watch the city lights paint the sky and 
-//water. It was my own light show. 
-//I wanted to emulate this experience and create a program that can 
-//paint the night sky with city lights. When the program is first opened, 
-//it is nothing but a dark starry night. The two red dots blinking next 
-//to the stars are metaphors for the aviation lights on top of tall 
-//buildings. The middle section of the canvas are filled with windows 
-//of buildings. While moving your cursor, if it touches a window, it will 
-//light up. Instead of drawing literal buildings, I wanted to make up the 
-//building with lit up windows because at night, that is all you can see. 
-//As more windows light up, the bottom section, which represents the river, 
-//begins to sparkle from the reflected light of the buildings. 
-
 ArrayList<Windows> windows = new ArrayList<Windows>();
 float rTime;
 float tTime;
